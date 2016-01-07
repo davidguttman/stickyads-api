@@ -1,0 +1,29 @@
+{
+  "name": "stickyads-api",
+  "version": "1.0.0",
+  "description": "A simple module for accessing stickyads report data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [],
+  "author": "David Guttman <david@guttman.io> (http://davidguttman.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "jsonist": "^1.3.0"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidguttman/stickyads-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidguttman/stickyads-api/issues"
+  },
+  "homepage": "https://github.com/davidguttman/stickyads-api#readme"
+}
